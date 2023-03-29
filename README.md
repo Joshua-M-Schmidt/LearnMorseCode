@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Joshua-M-Schmidt/AudioLibrary/blob/main/assets/icon.png?raw=true" align="right"
+<img src="https://github.com/Joshua-M-Schmidt/LearnMorseCode/blob/main/Graphics/play_store_512.png?raw=true" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="120">
 
 # LearnMorseCode 
