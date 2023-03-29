@@ -6,6 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/container"
+    android:background="#606060"
     android:scaleType="centerCrop"
     tools:context="com.nova.learningframework.Courselist">
     <ImageView
@@ -19,6 +20,7 @@
         android:layout_height="wrap_content"
         android:theme="@style/AppTheme.AppBarOverlay"
         app:elevation="0dp"
+        android:paddingTop="30dp"
         android:background="@null">
 
         <androidx.appcompat.widget.Toolbar

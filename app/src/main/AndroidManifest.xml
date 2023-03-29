@@ -10,53 +10,39 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
-
-        <meta-data
-            android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-6467256993656978~7991481646"/>
+        android:theme="@style/AppTheme.NoActionBar">
 
         <activity
             android:name=".questionFrame_letter.QuestionLightFrame"
-            android:label="@string/title_activity_quiz_light_signal"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:label="@string/title_activity_quiz_light_signal"></activity>
         <activity
             android:name=".questionFrame_letter.QuestionLetterFrame"
-            android:label="@string/title_activity_quiz_letter"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:label="@string/title_activity_quiz_letter" />
         <activity
             android:name=".questionFrame_letter.QuestionMorseTaskFrame"
-            android:label="@string/title_activity_quiz_light_signal"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:label="@string/title_activity_quiz_light_signal"></activity>
         <activity
             android:name=".questionFrame_letter.QuestionSoundFrame"
-            android:label="@string/title_activity_quiz_light_signal"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:label="@string/title_activity_quiz_light_signal"></activity>
         <activity
             android:name=".questionFrame_letter.QuestionMorseFrame"
-            android:label="@string/title_activity_quiz_morse"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:label="@string/title_activity_quiz_morse" />
         <activity
             android:name=".questionFrame_number.QuestionNumberLightFrame"
-            android:label="@string/title_activity_quiz_light_signal"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:label="@string/title_activity_quiz_light_signal"></activity>
         <activity
             android:name=".questionFrame_number.QuestionNumberLetterFrame"
-            android:label="@string/title_activity_quiz_letter"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:label="@string/title_activity_quiz_letter" />
         <activity
             android:name=".questionFrame_number.QuestionNumberMorseFrame"
-            android:label="@string/title_activity_quiz_morse"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:label="@string/title_activity_quiz_morse"/>
         <activity
             android:name=".StartActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait"
-            android:theme="@style/AppTheme.NoActionBar"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
