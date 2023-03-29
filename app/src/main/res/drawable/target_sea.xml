@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/back1" >
+    <target
+        android:name="sea_fore"
+        android:animation="@animator/move1" />
+    <target
+        android:name="sea_back"
+        android:animation="@animator/move" />
+</animated-vector>

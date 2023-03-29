@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learn Morse Code</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_quiz_morse">QuizMorse</string>
+    <string name="title_activity_quiz_letter">QuizLetter</string>
+    <string name="title_activity_quiz_light_signal">QuizLightSignal</string>
+</resources>

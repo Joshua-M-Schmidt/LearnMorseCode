@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="86"
+    android:viewportHeight="85"
+    android:width="20dp"
+    android:height="20dp">
+    <group
+        android:translateX="-1591"
+        android:translateY="-2083">
+        <group
+            android:rotation="-45"
+            android:translateX="332.159"
+            android:translateY="3073.4">
+            <path
+                android:pathData="M1540.55 242.459C1540.55 241.101 1541.65 240 1543.01 240C1551.71 240 1580.55 240 1580.55 240C1580.55 240 1580.55 211.164 1580.55 202.459C1580.55 201.101 1581.65 200 1583.01 200C1586.85 200 1594.25 200 1598.09 200C1599.45 200 1600.55 201.101 1600.55 202.459C1600.55 211.164 1600.55 240 1600.55 240C1600.55 240 1629.39 240 1638.09 240C1639.45 240 1640.55 241.101 1640.55 242.459C1640.55 246.304 1640.55 253.696 1640.55 257.541C1640.55 258.899 1639.45 260 1638.09 260C1629.39 260 1600.55 260 1600.55 260C1600.55 260 1600.55 288.836 1600.55 297.541C1600.55 298.899 1599.45 300 1598.09 300C1594.25 300 1586.85 300 1583.01 300C1581.65 300 1580.55 298.899 1580.55 297.541C1580.55 288.836 1580.55 260 1580.55 260C1580.55 260 1551.71 260 1543.01 260C1541.65 260 1540.55 258.899 1540.55 257.541C1540.55 253.696 1540.55 246.304 1540.55 242.459Z"
+                android:fillType="evenOdd"
+                android:fillColor="#424242"
+                android:strokeLineJoin="round"
+                android:strokeMiterLimit="1.41421" />
+        </group>
+    </group>
+</vector>
