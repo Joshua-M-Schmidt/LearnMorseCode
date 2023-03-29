@@ -2,17 +2,11 @@
 <img src="https://github.com/Joshua-M-Schmidt/AudioLibrary/blob/main/assets/icon.png?raw=true" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="120">
 
-# AudioLibrary 
+# LearnMorseCode 
 
 Your perfect companion for long audio files! This app lets you easily track your listening progress and pick up right where you left off. No more guessing or searching through endless audio files, the app allows you to effortlessly resume your listening journey.
 Simply select a folder and the app will automatically scan for audio files. You can then select a file and start listening. The app will automatically save your progress and resume playback from the last position.
 
-
-
-<img src="https://github.com/Joshua-M-Schmidt/AudioLibrary/blob/main/assets/screenshot.png?raw=true"
-align="right"
-  alt="Screenshot of AudioLibrary"
-  width="170" height="280">
 
 **currently available on Google Play**
 
