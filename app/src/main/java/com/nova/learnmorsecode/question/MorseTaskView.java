@@ -177,7 +177,7 @@ public class MorseTaskView extends QuestionForm {
                 Log.i("touch events",event.getAction()+ " Action");
                 switch (event.getAction()){
                     case MotionEvent.ACTION_DOWN:
-                        time= System.currentTimeMillis();
+                        time = System.currentTimeMillis();
                         background.setImageResource(R.drawable.morse_task_back_1);
                         toneGen1.startTone(ToneGenerator.TONE_DTMF_S,10000);
                         vibrator.vibrate(10000);

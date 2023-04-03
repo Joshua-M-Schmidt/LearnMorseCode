@@ -196,7 +196,7 @@ public class QuestionFrame extends AppCompatActivity {
     @Override
     public boolean onSupportNavigateUp() {
         SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
-        prefs.edit().putBoolean("running", true).commit();
+        prefs.edit().putBoolean("running", false).commit();
         startActivity(new Intent(this,parent));
         return false;
     }
