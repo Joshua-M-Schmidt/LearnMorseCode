@@ -21,6 +21,7 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.WindowManager;
+import android.webkit.WebView;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
@@ -72,14 +73,12 @@ public class Courselist extends AppCompatActivity {
 
         main_layout = findViewById(R.id.main_layout);
 
+
         View decorView = getWindow().getDecorView();
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
         int uiOptions = View.SYSTEM_UI_FLAG_HIDE_NAVIGATION | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY;
         decorView.setSystemUiVisibility(uiOptions);
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
-
-
-
     }
 
     public void showDialog(boolean showAd,final String course_title){

@@ -42,7 +42,7 @@ public class QuestionNumberSoundFrame extends QuestionFrame {
 
         if(!courseInfo.showNewInfo()){
             InputMethodManager inputMethodManager = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
-            inputMethodManager.toggleSoftInput(InputMethodManager.SHOW_FORCED, 0);
+            inputMethodManager.toggleSoftInput(InputMethodManager.SHOW_IMPLICIT, 0);
         }
     }
 }
